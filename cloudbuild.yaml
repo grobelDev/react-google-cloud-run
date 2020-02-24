@@ -41,6 +41,7 @@ steps:
     #       'managed',
     #       '--quiet',
     #     ]
+    
   images:
     - gcr.io/$PROJECT_ID/react-google-cloud-run
     # - gcr.io/$PROJECT_ID/server
